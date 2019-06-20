@@ -1,7 +1,7 @@
 <?php
 /**
-* 东方幻梦 2019-3-16
-* https://blog.dfhm.me/
+* 东方幻梦 2019-6-20
+* https://blog.mxlbs.cn/
 * 该程序使用了百度AI的SDK
 * 该程序使用 GPL V3.0 协议
 **/
